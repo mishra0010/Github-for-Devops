@@ -1,4 +1,4 @@
-                                        Cheat Sheet 
+                                                   Cheat Sheet 
 
 
 # 🧾 Git & GitHub Cheat Sheet (Basic to Medium Level)
